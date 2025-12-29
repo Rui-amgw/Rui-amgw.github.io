@@ -106,7 +106,7 @@ theme: hexo-theme-next-master
 deploy:
   type: git
   repo: git@github.com:Rui-amgw/Rui-amgw.github.io.git
-  branch: master
+  branch: hexo
 
 
 # search
